@@ -1,14 +1,14 @@
 456： Reference
-204： Solution
+204： Solution(singleton)
 218： Student
 455： Class
-496： ToyFactory
+496： ToyFactory(factory mode)
 497:  ShapeFactory
-1786: PubSubPattern
+1786: PubSubPattern(interface, abstract class)
 714:  BlackJack
 747:  CoffeeMaker
 748:  Kindle
-2497: Bank
+2497: Bank(delete)
 498:  ParkingLot
 708:  Elevator
 709:  Restaurant
@@ -19,3 +19,4 @@
 
 ParkingLot design thoughts in src/parkingLot/ParkingLot.java
 Elevator design thoughts in src/Elevator.java
+Library design thoughts in src/Library.java(code yet finished)
