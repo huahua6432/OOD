@@ -17,6 +17,6 @@
 732:  BookingSystem
 746:  TicTacToe
 
-ParkingLot design thoughts in src/parkingLot/ParkingLot.java
-Elevator design thoughts in src/Elevator.java
-Library design thoughts in src/Library.java(code yet finished)
+ParkingLot design in src/parkingLot/ParkingLot.java
+Elevator design in src/Elevator.java
+Library design in src/Library.java(code yet finished)
